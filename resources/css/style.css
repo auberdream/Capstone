@@ -41,6 +41,8 @@ header {
   width: 100%;
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
+  z-index: 5;
+  font-family: Roboto-Regular;
 }
 
 header .content {
@@ -117,6 +119,8 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
+  background-image: url("/Users/Wemblewomble/Projects/Capstone/resources/images/banner-landingpage.jpg");
+  background-size: cover;
 }
 
 #sign-up-cta {
